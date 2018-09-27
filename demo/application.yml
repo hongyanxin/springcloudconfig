@@ -9,7 +9,7 @@ spring:
           search-paths: respo
       label: master
 server:
-  port: 8014
+  port: 8028
 eureka:
   client:
     service-url:
