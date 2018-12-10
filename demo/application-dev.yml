@@ -13,7 +13,7 @@ server:
 eureka:
   client:
     service-url:
-       defaultZone: http://localhost:8016/eureka/
+       defaultZone: http://localhost:7070/eureka/
 hello: hello
 
 
